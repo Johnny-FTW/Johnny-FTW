@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Johnny-FTW
-- 👀 I’m interested in creating technical programs and WEB
-- 🌱 I’m currently improwing my skills.
 - 📫 How to reach me : https://www.linkedin.com/in/jan-hatapka-6b970b205/
 
 <!---
